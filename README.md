@@ -29,4 +29,4 @@ The pytorch model classifies "moon data" (2-dimensional data whose classes are d
 #### Summary of Skills
 
 ![ML Production Framework](/Users/anshupriyasrivastava/Desktop/Udacity/Udacity ML Nanodegree/ML-in-Production)
-
+Format: ![Alt Text](url)
