@@ -21,3 +21,8 @@ This case will demonstrate how to use supervised learning techniques, specifical
 
 I have also worked on the same kaggle dataset for another project under my course IDS702 during the fall of 2019. The link for that project is - [Credit Card Fraud Detection] (https://github.com/Anshupriya2694/Credit-Card-Fraud-Detection). This project is written in R and explores Machine Learning Techniques like Logistic Regression, K-Nearest Neighbors and Decision Trees.
 
+#### Case Study 3 - Custom Models - Non-Linear Classification [Moon Data Classification]
+
+This case study demonstrates how to manage cases where classes of data are not separable by a linear line. A custom PyTorch neural network used for classifying data is trained and deployed.
+The pytorch model classifies "moon data" (2-dimensional data whose classes are distributed to look a bit like moons in 2D space). 
+
