@@ -28,9 +28,12 @@ The pytorch model classifies "moon data" (2-dimensional data whose classes are d
 
 #### Case Study 4 - Time Series Forecasting
 
-This case demonstrates how to train SageMaker's DeepAR model for forecasting predictions over time. Time-series forecasting is an active area of research because a good forecasting algorithm often takes in a number of different features and accounts for seasonal or repetitive patterns. 
+This case demonstrates how to train SageMaker's DeepAR model for forecasting predictions over time. Time-series forecasting is an active area of research because a good forecasting algorithm often takes in a number of different features and accounts for seasonal or repetitive patterns. The data is about household electric power consumption, over the globe. The dataset is originally taken from Kaggle, and represents power consumption collected over several years from 2006 to 2010. With such a large dataset, we can aim to predict over long periods of time, over days, weeks or months of time. Predicting energy consumption can be a useful task for a variety of reasons including determining seasonal prices for power consumption and efficiently delivering power to people, according to their predicted usage.
+
 
 #### Summary
+
+The above projects help understand the workflow shown below.
 
 ![Machine Learning Framework](ML-Prod-Framework.png)
 
