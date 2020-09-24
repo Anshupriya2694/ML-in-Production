@@ -26,6 +26,10 @@ I have also worked on the same kaggle dataset for another project under my cours
 This case study demonstrates how to manage cases where classes of data are not separable by a linear line. A custom PyTorch neural network used for classifying data is trained and deployed.
 The pytorch model classifies "moon data" (2-dimensional data whose classes are distributed to look a bit like moons in 2D space). 
 
+#### Case Study 4 - Time Series Forecasting
+
+This case demonstrates how to train SageMaker's DeepAR model for forecasting predictions over time. Time-series forecasting is an active area of research because a good forecasting algorithm often takes in a number of different features and accounts for seasonal or repetitive patterns. 
+
 #### Summary
 
 ![Machine Learning Framework](ML-Prod-Framework.png)
