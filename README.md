@@ -26,3 +26,7 @@ I have also worked on the same kaggle dataset for another project under my cours
 This case study demonstrates how to manage cases where classes of data are not separable by a linear line. A custom PyTorch neural network used for classifying data is trained and deployed.
 The pytorch model classifies "moon data" (2-dimensional data whose classes are distributed to look a bit like moons in 2D space). 
 
+#### Summary
+
+![Machine Learning Framework](ML-Prod-Framework.png)
+
